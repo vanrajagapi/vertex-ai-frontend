@@ -1,6 +1,6 @@
 {
-    "name": "genomics_pitc_fest",
-    "short_name": "genomics_pitc_fest",
+    "name": "claim_automate_checker",
+    "short_name": "claim_automate_checker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

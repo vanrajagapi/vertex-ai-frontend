@@ -45,11 +45,11 @@ static void my_application_activate(GApplication* application) {
   if (use_header_bar) {
     GtkHeaderBar* header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
-    gtk_header_bar_set_title(header_bar, "genomics_pitc_fest");
+    gtk_header_bar_set_title(header_bar, "claim_automate_checker");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   } else {
-    gtk_window_set_title(window, "genomics_pitc_fest");
+    gtk_window_set_title(window, "claim_automate_checker");
   }
 
   gtk_window_set_default_size(window, 1280, 720);

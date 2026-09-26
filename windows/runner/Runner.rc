@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.genmoics" "\0"
-            VALUE "FileDescription", "genomics_pitc_fest" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "claim_automate_checker" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "genomics_pitc_fest" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.genmoics. All rights reserved." "\0"
-            VALUE "OriginalFilename", "genomics_pitc_fest.exe" "\0"
-            VALUE "ProductName", "genomics_pitc_fest" "\0"
+            VALUE "InternalName", "claim_automate_checker" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "claim_automate_checker.exe" "\0"
+            VALUE "ProductName", "claim_automate_checker" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
